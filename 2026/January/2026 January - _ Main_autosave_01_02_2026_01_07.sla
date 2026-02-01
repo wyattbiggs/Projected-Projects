@@ -67,7 +67,6 @@
             <Subset Name="Consolas Regular"/>
             <Subset Name="Noto Serif Bold"/>
             <Subset Name="Noto Serif Bold Italic"/>
-            <Subset Name="Noto Serif Regular"/>
             <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
@@ -162,7 +161,7 @@
         <PAGEOBJECT XPOS="388.5008" YPOS="5875.685118637" OwnPage="17" ItemID="202081856" PTYPE="6" WIDTH="107" HEIGHT="646.121951219512" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Dunkelrot" PCOLOR2="Dunkelrot" PLINEART="1" path="M0 0 L107 0 L107 646.122 L0 646.122 L0 0 Z" copath="M0 0 L107 0 L107 646.122 L0 646.122 L0 0 Z" gXpos="388.5006" gYpos="3919.675718637" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="370.5008" YPOS="6374.5304" OwnPage="17" ItemID="202101440" PTYPE="6" WIDTH="17" HEIGHT="89" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="M0 0 L17 0 L17 89 L0 89 L0 0 Z" copath="M0 0 L17 0 L17 89 L0 89 L0 0 Z" gXpos="370.5008" gYpos="6374.5304" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="388.0008" YPOS="6374.5304" OwnPage="17" ItemID="201181280" PTYPE="6" WIDTH="71.5" HEIGHT="89" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PCOLOR2="White" PLINEART="1" path="M0 0 L71.5 0 L71.5 89 L0 89 L0 0 Z" copath="M0 0 L71.5 0 L71.5 89 L0 89 L0 0 Z" gXpos="388.0008" gYpos="6374.5304" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="370.0008" YPOS="6374.0304" OwnPage="17" ItemID="202123056" PTYPE="2" WIDTH="90" HEIGHT="90" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.09" LOCALSCY="0.09" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../1 Infrastructure/9 References/The QR Code Generator Test (Poopie).png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L90 0 L90 90 L0 90 L0 0 Z" copath="M0 0 L90 0 L90 90 L0 90 L0 0 Z" gXpos="370.0008" gYpos="6374.0304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="370.0008" YPOS="6374.0304" OwnPage="17" ItemID="202123056" PTYPE="2" WIDTH="90" HEIGHT="90" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.09" LOCALSCY="0.09" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../_Utils/The QR Code Generator Test (Poopie).png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L90 0 L90 90 L0 90 L0 0 Z" copath="M0 0 L90 0 L90 90 L0 90 L0 0 Z" gXpos="370.0008" gYpos="6374.0304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="532.0008" YPOS="780.0048" OwnPage="2" ItemID="202128320" PTYPE="4" WIDTH="324" HEIGHT="31.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 31.5 L0 31.5 L0 0 Z" copath="M0 0 L324 0 L324 31.5 L0 31.5 L0 0 Z" gXpos="532.0008" gYpos="780.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle FONT="Noto Serif Bold Italic" FONTSIZE="20"/>
@@ -699,18 +698,18 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="5294.5272" OwnPage="15" ItemID="206796416" PTYPE="4" WIDTH="153" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L153 0 L153 18 L0 18 L0 0 Z" copath="M0 0 L153 0 L153 18 L0 18 L0 0 Z" gXpos="532.0008" gYpos="2686.5144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="154.0008" YPOS="5312.5272" OwnPage="15" ItemID="206796416" PTYPE="4" WIDTH="153" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L153 0 L153 18 L0 18 L0 0 Z" copath="M0 0 L153 0 L153 18 L0 18 L0 0 Z" gXpos="550.0008" gYpos="2704.5144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Consolas Bold" FONTSIZE="18" CH="Results"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="311.5008" YPOS="5524.0272" OwnPage="15" ItemID="206804912" PTYPE="4" WIDTH="144" HEIGHT="238.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 238.5 L0 238.5 L0 0 Z" copath="M0 0 L144 0 L144 238.5 L0 238.5 L0 0 Z" gXpos="707.5008" gYpos="2916.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="154.0008" YPOS="5380.0272" OwnPage="15" ItemID="206804912" PTYPE="4" WIDTH="144" HEIGHT="247.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 247.5 L0 247.5 L0 0 Z" copath="M0 0 L144 0 L144 247.5 L0 247.5 L0 0 Z" gXpos="550.0008" gYpos="2772.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="12" FONT="Consolas Regular" FONTSIZE="10"/>
                 <ITEXT FONTSIZE="10" CH="[1]"/>
-                <ITEXT CH=" https://makerworld.com/en/models/1163767-shadowcoil-articulated-dragon#profileId-1170719"/>
+                <ITEXT CH=" "/>
                 <para ALIGN="0" LINESP="12"/>
                 <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="[2]"/>
                 <ITEXT FONTSIZE="10" CH=" https://www.matterhackers.com/store/c/3d-printer-filament"/>
@@ -718,26 +717,24 @@
                 <ITEXT FONTSIZE="10" CH="[3] https://www.thingiverse.com/thing:763622"/>
                 <para ALIGN="0" LINESP="12"/>
                 <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="[4] https://wiki.bambulab.com/en/x1/maintenance/replace-hotend"/>
-                <para ALIGN="0" LINESP="12"/>
-                <ITEXT CH="[5] https://www.protolabs.com/resources/blog/tensile-testing-for-3d-printing-materials/"/>
-                <trail/>
+                <trail ALIGN="0" LINESP="12"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="5659.0272" OwnPage="15" ItemID="206810576" PTYPE="4" WIDTH="153" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L153 0 L153 18 L0 18 L0 0 Z" copath="M0 0 L153 0 L153 18 L0 18 L0 0 Z" gXpos="532.0008" gYpos="3051.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="154.0008" YPOS="5335.0272" OwnPage="15" ItemID="206810576" PTYPE="4" WIDTH="153" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L153 0 L153 18 L0 18 L0 0 Z" copath="M0 0 L153 0 L153 18 L0 18 L0 0 Z" gXpos="550.0008" gYpos="2727.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Consolas Bold" FONTSIZE="18" CH="Discussion"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="311.5008" YPOS="5506.0272" OwnPage="15" ItemID="206816240" PTYPE="4" WIDTH="144" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 18 L0 18 L0 0 Z" copath="M0 0 L144 0 L144 18 L0 18 L0 0 Z" gXpos="707.5008" gYpos="2898.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="154.0008" YPOS="5362.0272" OwnPage="15" ItemID="206816240" PTYPE="4" WIDTH="144" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 18 L0 18 L0 0 Z" copath="M0 0 L144 0 L144 18 L0 18 L0 0 Z" gXpos="550.0008" gYpos="2754.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Consolas Bold" FONTSIZE="18" CH="References"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="307.5008" YPOS="5502.0272" OwnPage="15" ItemID="206813408" PTYPE="6" WIDTH="152" HEIGHT="264.5" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="M0 0 L152 0 L152 264.5 L0 264.5 L0 0 Z" copath="M0 0 L152 0 L152 264.5 L0 264.5 L0 0 Z" gXpos="307.5008" gYpos="5502.0272" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="-47.9992" YPOS="5340.0272" OwnPage="15" ItemID="206813408" PTYPE="6" WIDTH="152" HEIGHT="278" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="M0 0 L152 0 L152 278 L0 278 L0 0 Z" copath="M0 0 L152 0 L152 278 L0 278 L0 0 Z" gXpos="-47.9992" gYpos="5340.0272" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="140.5008" YPOS="3472.5176" OwnPage="9" ItemID="206819072" PTYPE="4" WIDTH="103.5" HEIGHT="9" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L103.5 0 L103.5 9 L0 9 L0 0 Z" copath="M0 0 L103.5 0 L103.5 9 L0 9 L0 0 Z" gXpos="536.5008" gYpos="4124.5208" gWidth="131.294421320776" gHeight="9" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -1580,8 +1577,8 @@
         <PAGEOBJECT XPOS="140.5008" YPOS="4759.524" OwnPage="13" ItemID="255346272" PTYPE="4" WIDTH="148.5" HEIGHT="207" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L148.5 0 L148.5 207 L0 207 L0 0 Z" copath="M0 0 L148.5 0 L148.5 207 L0 207 L0 0 Z" gXpos="140.5008" gYpos="4759.524" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="13" FONT="Consolas Regular" FONTSIZE="10"/>
-                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="To get a feel for the surface finish and appropriate slicing settings, I printed a test Benchy [3 and Fig. 3.1] with BambuLab's default PLA settings.  I then began printing the dragon at 75% scale with the Gold-Magenta PLA filament but it halted about half-way through due to a fan speed issue. This was resolved by replacing the  complete hotend assembly"/>
-                <ITEXT CH=" [4]."/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="To get a feel for the surface finish and appropriate slicing settings, I printed a test Benchy [3 and Fig. 3.1] with BambuLab's default PLA settings.  I then began printing the dragon at 75% scale with the Gold-Magenta PLA filament but it halted about half-way through due to a fan speed issue. This was resolved by replacing the  complete hotend assembly (Appendix A)."/>
+                <ITEXT CH="  "/>
                 <para LINESP="13"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1616,7 +1613,7 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="140.5008" YPOS="4971.024" OwnPage="13" ItemID="255357600" PTYPE="2" WIDTH="144" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0.191637630662001" LOCALY="0.44703746056075" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L144 0 L144 144 L0 144 L0 0 Z" copath="M0 0 L144 0 L144 144 L0 144 L0 0 Z" gXpos="140.5008" gYpos="4971.024" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="703.0008" YPOS="4642.524" OwnPage="14" ItemID="255363264" PTYPE="2" WIDTH="144" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0.560975609756042" LOCALY="-0.382230832122332" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L144 0 L144 144 L0 144 L0 0 Z" copath="M0 0 L144 0 L144 144 L0 144 L0 0 Z" gXpos="703.0008" gYpos="4642.524" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="707.5008" YPOS="4948.524" OwnPage="14" ItemID="255360432" PTYPE="2" WIDTH="144" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L144 0 L144 144 L0 144 L0 0 Z" copath="M0 0 L144 0 L144 144 L0 144 L0 0 Z" gXpos="707.5008" gYpos="4948.524" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="707.5008" YPOS="4989.024" OwnPage="14" ItemID="255360432" PTYPE="2" WIDTH="144" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L144 0 L144 144 L0 144 L0 0 Z" copath="M0 0 L144 0 L144 144 L0 144 L0 0 Z" gXpos="707.5008" gYpos="4989.024" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="140.5008" YPOS="5115.024" OwnPage="13" ItemID="255371760" PTYPE="4" WIDTH="144" HEIGHT="9" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 9 L0 9 L0 0 Z" copath="M0 0 L144 0 L144 9 L0 9 L0 0 Z" gXpos="140.5008" gYpos="5115.024" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -1624,10 +1621,10 @@
                 <trail ALIGN="1" LINESP="9"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="707.5008" YPOS="5092.524" OwnPage="14" ItemID="255377424" PTYPE="4" WIDTH="144" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 27 L0 27 L0 0 Z" copath="M0 0 L144 0 L144 27 L0 27 L0 0 Z" gXpos="707.5008" gYpos="5092.524" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="707.5008" YPOS="5133.024" OwnPage="14" ItemID="255377424" PTYPE="4" WIDTH="144" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 27 L0 27 L0 0 Z" copath="M0 0 L144 0 L144 27 L0 27 L0 0 Z" gXpos="707.5008" gYpos="5133.024" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="9" FONTSIZE="8"/>
-                <ITEXT FONT="Consolas Italic" FONTSIZE="8" CH="Figure 3.5: Final prints of the third (side) and fourth (side) dragon"/>
+                <ITEXT FONT="Consolas Italic" FONTSIZE="8" CH="Figure 3.3: Final prints of the third (side) and fourth (side) dragon"/>
                 <trail ALIGN="1" LINESP="9"/>
             </StoryText>
         </PAGEOBJECT>
@@ -2017,37 +2014,22 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="541.0008" YPOS="4642.524" OwnPage="14" ItemID="278007536" PTYPE="2" WIDTH="144" HEIGHT="144" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0.560975609756042" LOCALY="-0.382230832122332" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L144 0 L144 144 L0 144 L0 0 Z" copath="M0 0 L144 0 L144 144 L0 144 L0 0 Z" gXpos="541.0008" gYpos="4642.524" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="707.5008" YPOS="4822.524" OwnPage="14" ItemID="278030192" PTYPE="4" WIDTH="148.5" HEIGHT="121.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L148.5 0 L148.5 121.5 L0 121.5 L0 0 Z" copath="M0 0 L148.5 0 L148.5 121.5 L0 121.5 L0 0 Z" gXpos="707.5008" gYpos="4822.524" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="707.5008" YPOS="4822.524" OwnPage="14" ItemID="278030192" PTYPE="4" WIDTH="148.5" HEIGHT="238.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L148.5 0 L148.5 238.5 L0 238.5 L0 0 Z" copath="M0 0 L148.5 0 L148.5 238.5 L0 238.5 L0 0 Z" gXpos="707.5008" gYpos="4822.524" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="12" FONT="Consolas Regular" FONTSIZE="10"/>
                 <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="suffered the same defect as the second attempt."/>
-                <ITEXT CH=" The build plate was removed, handwashed over a sink with water and handsoap, dried with a flour sack towel, and placed back in the X1C. The two proceeding prints had no defects."/>
+                <ITEXT CH=" The build plate was removed, handwashed over a sink with water and handsoap"/>
+                <para LINESP="12"/>
+                <para LINESP="12"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="3 attempts: 0.3 first layer height"/>
+                <para LINESP="12"/>
+                <para LINESP="12"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    d: washed build plate with soap and water"/>
+                <para LINESP="12"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="Printed two with no issues after washing."/>
+                <para/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="Final settings (Appendix B)"/>
                 <trail/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="5312.5272" OwnPage="15" ItemID="278033024" PTYPE="4" WIDTH="153" HEIGHT="337.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L153 0 L153 337.5 L0 337.5 L0 0 Z" copath="M0 0 L153 0 L153 337.5 L0 337.5 L0 0 Z" gXpos="136.0008" gYpos="5312.5272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle LINESP="13" FONT="Consolas Regular" FONTSIZE="10"/>
-                <ITEXT CH="The articulation of each final dragons is fully functional and behaves as predicted, having the most freedom about the pitch axis, followed by yaw and then roll. No tools were used to measure the physical properties, but the dual-colored PLA has physical properties roughly equivalent to that of single-colored PLA. The Pink-Blue PLA filament produces in the most visually interesting surface finish, followed by a tie between the Blue-Green PLA filament and the Gold-Magenta PLA filament. The dragons printed at 75% scale provide a more enjoyable fidgeting experience compared to the dragon printed at 125% scale."/>
-                <trail/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="5677.0272" OwnPage="15" ItemID="278021696" PTYPE="4" WIDTH="153" HEIGHT="135" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L153 0 L153 135 L0 135 L0 0 Z" copath="M0 0 L153 0 L153 135 L0 135 L0 0 Z" gXpos="136.0008" gYpos="5677.0272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle LINESP="13" FONT="Consolas Regular" FONTSIZE="10"/>
-                <ITEXT CH="Because the model was sourced from MakerWorld rather than designed from scratch, this project demonstrates only that small"/>
-                <nbhyphen/>
-                <ITEXT CH="scale, chain"/>
-                <nbhyphen/>
-                <ITEXT CH="like articulations are feasible; meaningful modifications beyond simple scaling are not possible without"/>
-                <trail/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="307.0008" YPOS="5303.5272" OwnPage="15" ItemID="278035856" PTYPE="4" WIDTH="153" HEIGHT="193.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L153 0 L153 193.5 L0 193.5 L0 0 Z" copath="M0 0 L153 0 L153 193.5 L0 193.5 L0 0 Z" gXpos="307.0008" gYpos="5303.5272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle/>
-                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="developing a fully parametric model. The mechanical differences between single- and dual-colored filament would require a load frame and standard testing methods for 3D prints which would likely be similar to existing tensile strength tests (ASTM D638/ISO 527) [5] but would have to account for the anisotropy of the 3D printed test coupons. "/>
-                <trail LINESP="13"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>

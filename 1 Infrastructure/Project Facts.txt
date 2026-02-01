@@ -1,0 +1,47 @@
+Project Facts
+
+(Bar)
+
+Time
+  [S - Second(s)]
+  [M - Minute(s)]
+  [H - Hour(s)  ]
+  [D - Day(s)   ]
+  [W - Week(s)  ]
+  [Y - Year(s)  ]
+  Labor
+    Harvesting
+    Setup (For use when waiting for tool acts on material(s) for longer than 24hrs)
+  Machine
+    Idle
+    Active
+  Pressing
+
+(Bar)
+
+Tools
+  [Item]
+    Style (surface level, like art or paper towels)
+    Type (mechanism, like felt-tip or ball-point, or mode of action, like push vs pull saws)
+    Dim
+    Origin
+    Qty
+    Material
+    Weight
+
+(Bar)
+
+Materials
+  [Item]
+    Location
+    Season
+    Name, Common
+    Name, Scientific
+    Qty
+    Plastic
+    Mfr
+    PN
+    Type
+    Form
+    Color [#]
+    D
