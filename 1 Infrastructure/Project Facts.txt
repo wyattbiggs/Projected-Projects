@@ -28,6 +28,10 @@ Tools
     Qty
     Material
     Weight
+    Color [#]
+    D
+    Mfr
+    Model
 
 (Bar)
 
