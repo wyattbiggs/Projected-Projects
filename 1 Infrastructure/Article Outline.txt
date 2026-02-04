@@ -1,3 +1,8 @@
+[Section] (Word count, Sentence count)
+ - Questions
+
+ - Description
+
 Introduction (50-150 Words, 3-6 Sentences)
  - Why did you do the project? Does this relate to any other projects?
  - What is the project?
