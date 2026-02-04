@@ -1,0 +1,22 @@
+Introduction (50-150 Words, 3-6 Sentences)
+ - Why did you do the project? Does this relate to any other projects?
+ - What is the project?
+ - What are you trying to achieve?
+ - What do you think will happen?
+
+Methods (? Words, ? Sentences)
+ - How did you do the project?
+
+ - Explain the project chronologically. You can use a numbered list, section titles, or whatever other structure you'd like to differentiate steps or chapters of the project.
+ - You don't have worry about making the story tidy, this can be done in the Results or Discussion sections if you'd like.
+
+Results (75-150 Words, 3-8 Sentences)
+ - How did your project turn out?
+
+ - Describe the outcome of your project.
+ - If there were any measurable outcomes of the project, share them here!
+
+Discussion (50-150 Words, 2-5 Sentences)
+ - Are you happy with the result?
+ - What would you do differently?
+ - Does this relate to any other projects?

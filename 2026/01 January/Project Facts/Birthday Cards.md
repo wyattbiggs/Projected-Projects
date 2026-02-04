@@ -1,50 +1,78 @@
 Time
 
-&nbsp; Labor: 1-2 hr
+  Labor: 1-2 H
 
 
 
 Tools
 
-&nbsp; Scissors
+  Scissors
 
-&nbsp; - Scotch
+  - Scotch
 
-&nbsp; - Type: Titanium Non-Stick
+  - Type: Titanium Non-Stick
 
-&nbsp; Water colors
+  Water colors
 
-&nbsp; - Koi
+  - Koi
 
-&nbsp;   - Color: Sparkly copper
+    - Color: Sparkly copper
 
-&nbsp; - Arteza
+  - Arteza
 
-&nbsp;   - Color: Variety of browns
+    - Color: Variety of browns
 
-&nbsp; Pens
+  Pens
 
-&nbsp; - Type: Felt tip?
+  - Type: Felt tip?
 
-&nbsp; - Color: Black?
+  - Color: Black?
 
-&nbsp; - Diameter: ?
+  - Diameter: ?
 
-&nbsp; Colored pencils
+  Colored pencils
 
-&nbsp; - Prismacolor
+  - Prismacolor
 
-&nbsp; - Color: Variety
+  - Color: Variety
+
+  Paint Brushes
+
+  - Artist's Loft
+
+  - Rounded tip
+
+  - Medium-small size, like the size of a blunted Sharpie
 
 
 
 Materials
 
-&nbsp; Water color paper
+  Water color paper
 
-&nbsp; Stickers
+  - Artist's Loft
 
-&nbsp; Envelope
+  - Color: White
 
-&nbsp; Stamp
+  - 6" x 9", similar to cereal box cardboard
+
+  Stickers
+
+  - Simple Life Cottage Core
+
+    - Over 650 Stickers
+
+    - Shiny, smooth texture, not worried about them ripping
+
+    - Mixed styles
+
+    - Seasons, Flowers, Animals,
+
+  - Misc.
+
+    - Brownish background
+
+    - Clear
+
+
 
