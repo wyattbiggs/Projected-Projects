@@ -57,7 +57,7 @@
             </TableBorderBottom>
         </CellStyle>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
-        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Brother HL-L2360D series Printer" filename="" separationName="All" printerCommand=""/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Brother HL-L2360D series Printer" filename="C:/Users/wyatt/Documents/_Test Infrastructure/400 - Communication/Newsletter/Projected-Projects/2026/01 January/2026 January - _ Main.ps" separationName="All" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
             <Subset Name="Arial Italic"/>
             <Subset Name="Arial Regular"/>
@@ -206,11 +206,11 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="2048.0112" OwnPage="5" ItemID="199508928" PTYPE="4" WIDTH="324" HEIGHT="27" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 27 L0 27 L0 0 Z" copath="M0 0 L324 0 L324 27 L0 27 L0 0 Z" gXpos="136.0008" gYpos="2048.0112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="2048.0112" OwnPage="5" ItemID="199508928" PTYPE="4" WIDTH="324" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 45 L0 45 L0 0 Z" copath="M0 0 L324 0 L324 45 L0 45 L0 0 Z" gXpos="136.0008" gYpos="2048.0112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle FONT="Consolas Italic"/>
-                <ITEXT FONT="Consolas Italic" FONTSIZE="24" CH="Preface"/>
-                <trail/>
+                <DefaultStyle LINESP="24" FONT="Consolas Italic"/>
+                <ITEXT FONT="Consolas Italic" FONTSIZE="20" CH="Preface to the First Release of Projected Projects"/>
+                <trail ALIGN="1" LINESP="24"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="2552.0112" OwnPage="5" ItemID="201640272" PTYPE="4" WIDTH="18" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L18 0 L18 18 L0 18 L0 0 Z" copath="M0 0 L18 0 L18 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="2552.0112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -2128,7 +2128,7 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="739.0008" YPOS="1545.008" OwnPage="4" ItemID="257101472" PTYPE="5" WIDTH="94.5013227420654" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="2" path="" gXpos="739.0008" gYpos="1545.508" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="136.0008" YPOS="2075.0112" OwnPage="5" ItemID="257095808" PTYPE="4" WIDTH="324" HEIGHT="477" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 477 L0 477 L0 0 Z" copath="M0 0 L324 0 L324 477 L0 477 L0 0 Z" gXpos="136.0008" gYpos="2075.0112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="2109.0112" OwnPage="5" ItemID="257095808" PTYPE="4" WIDTH="324" HEIGHT="443" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 443 L0 443 L0 0 Z" copath="M0 0 L324 0 L324 443 L0 443 L0 0 Z" gXpos="136.0008" gYpos="2109.0112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle FONT="Consolas Regular"/>
                 <tab/>
@@ -2141,14 +2141,14 @@
                 <ITEXT CH="Projected Projects is intended to encourage myself to commit to a chosen project for a given month. In having an audience and a deadline, I hope to be more intentional and focused with time, money, and other resources instead of having these splintered, divided amongst an array of disparate projects. The predicted advantage of this focus is its assistance in attaining a greater number of satisfactorily completed projects or at least pave the way with the achievement of more forward progress than that which was accomplished without this monthly structure."/>
                 <para/>
                 <tab/>
-                <ITEXT CH="This journal is to be produced for three months, and at the end of these three months, I shall decide between committing to three more months; ceasing this journal’s production for an indefinite period; and, as suggested by many,"/>
+                <ITEXT CH="This journal is to be produced for three months, and at the end of these three months, I shall decide between committing to three more"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="532.0008" YPOS="2034.5112" OwnPage="6" ItemID="267217792" PTYPE="4" WIDTH="324" HEIGHT="517.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 517.5 L0 517.5 L0 0 Z" copath="M0 0 L324 0 L324 517.5 L0 517.5 L0 0 Z" gXpos="136.0008" gYpos="2034.5112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle FONT="Consolas Regular"/>
-                <ITEXT CH="shifting to a quarterly, semiannual, or annual release schedule. "/>
+                <ITEXT CH=" months; ceasing this journal’s production for an indefinite period; and, as suggested by many, shifting to a quarterly, semiannual, or annual release schedule. "/>
                 <para/>
                 <tab/>
                 <ITEXT CH="The number of simultaneous projects I have at times tried to maintain has highlighted the cons of context switching. By documenting a project (or even a portion of one), some of the effort of restarting and relearning could be sidestepped. It is important that the documentation of projects be, in general and not exclusively in this journal, comprehensive to an extent such that one could reasonably recreate the results with minimal questions to the creator-author while the project still maintains an open-endedness that facilitates curiosity, adaptation, and creation."/>
@@ -2157,7 +2157,7 @@
                 <ITEXT CH="To make the information more readily navigable and accessible, two structures are used to organize the content of the projects. The first and most visually discernable is the “Project Facts” that is at the front of each article. I have designed it to mimic the Nutrition Facts that can be found on food products sold in the US [1]. Each will contain three sections, namely and in the following order: Time, Tools, and Materials. The Time section is intended to give the audience an idea of the active and inactive time the creator-author invested in the project as well as how long it might take to complete the project if one endeavors to replicate it."/>
                 <para/>
                 <tab/>
-                <ITEXT CH="The Tools section is where tools, items, programs, and other resources that are not consumed by the project are listed. Associated attributes are listed beneath the item. These"/>
+                <ITEXT CH="The Tools section is where tools, items, programs, and other resources that are not"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -2172,7 +2172,7 @@
         <PAGEOBJECT XPOS="136.0008" YPOS="2686.5144" OwnPage="7" ItemID="267231952" PTYPE="4" WIDTH="324" HEIGHT="517.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 517.5 L0 517.5 L0 0 Z" copath="M0 0 L324 0 L324 517.5 L0 517.5 L0 0 Z" gXpos="136.0008" gYpos="2034.5112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle FONT="Consolas Regular"/>
-                <ITEXT CH="are optional and intended to enable the creator-author to be precise with what they used while allowing a reader the flexibility to improvise with tool choice, equipped with a healthy vocabulary for each type of tool."/>
+                <ITEXT CH="consumed by the project are listed. Associated attributes are listed beneath the item. These are optional and intended to enable the creator-author to be precise with what they used while allowing a reader the flexibility to improvise with tool choice, equipped with a healthy vocabulary for each type of tool."/>
                 <para/>
                 <tab/>
                 <ITEXT CH="The Materials section mirrors the Tools section but contains the items invested into or consumed by the project. There is already some overlap in the attributes used to describe tools and materials. The meanings of these attributes are unique to the section they are being used in and a glossary or list of attributes used for each will be placed at the end of this year’s March edition."/>
@@ -2181,26 +2181,26 @@
                 <ITEXT CH="The second organizational structure I have borrowed from the scientific research community: IMRaD (Introduction, Methods, Results, and Discussion). Without going into much detail as others have better detailed the structure [2], [3], each section asks a distinct and vague question for the creator-author to answer for the audience: the Introduction asks “Why?”; Methods, “How?”; Results, “What?”; and Discussion, “So what?”. This is only a suggestion, intended to help creator-authors organize their ideas in a way other than the seemingly standard five paragraph essays, with an introduction, three body paragraphs, and conclusion."/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Lastly, Projected Projects is intended to showcase the people's projects, celebrating the interesting things that these people, these creator-authors, get up to. It is intended to be a space where skills, techniques, and ideas can"/>
+                <ITEXT CH="Lastly, Projected Projects is intended to showcase people's projects, celebrating the interesting things that these wonderful people,"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="532.0008" YPOS="2686.5144" OwnPage="8" ItemID="267220624" PTYPE="4" WIDTH="324" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 45 L0 45 L0 0 Z" copath="M0 0 L324 0 L324 45 L0 45 L0 0 Z" gXpos="136.0008" gYpos="2034.5112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="532.0008" YPOS="2686.5144" OwnPage="8" ItemID="267220624" PTYPE="4" WIDTH="324" HEIGHT="90" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 90 L0 90 L0 0 Z" copath="M0 0 L324 0 L324 90 L0 90 L0 0 Z" gXpos="136.0008" gYpos="2034.5112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle FONT="Consolas Regular"/>
-                <ITEXT CH="be explored, preserved, and shared. If you would like to share a project in any state of progress from creation to completion, please reach out."/>
+                <ITEXT CH="these creator-authors, get up to. It is intended to be a space where skills, techniques, and ideas can be explored, preserved, and shared. It is intended to encourage others.  If you would like to share a project in any state of progress from creation to completion, please reach out!"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="532.5008" YPOS="2772.5144" OwnPage="8" ItemID="267234784" PTYPE="6" WIDTH="152" HEIGHT="300.5" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="M0 0 L152 0 L152 300.5 L0 300.5 L0 0 Z" copath="M0 0 L152 0 L152 300.5 L0 300.5 L0 0 Z" gXpos="532.5008" gYpos="6032.5304" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="536.5008" YPOS="2776.5144" OwnPage="8" ItemID="267223456" PTYPE="4" WIDTH="144" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 18 L0 18 L0 0 Z" copath="M0 0 L144 0 L144 18 L0 18 L0 0 Z" gXpos="932.5008" gYpos="3428.5176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="537.0008" YPOS="2817.5144" OwnPage="8" ItemID="267234784" PTYPE="6" WIDTH="152" HEIGHT="300.5" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="M0 0 L152 0 L152 300.5 L0 300.5 L0 0 Z" copath="M0 0 L152 0 L152 300.5 L0 300.5 L0 0 Z" gXpos="537.0008" gYpos="6077.5304" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="541.0008" YPOS="2821.5144" OwnPage="8" ItemID="267223456" PTYPE="4" WIDTH="144" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 18 L0 18 L0 0 Z" copath="M0 0 L144 0 L144 18 L0 18 L0 0 Z" gXpos="937.0008" gYpos="3473.5176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Consolas Bold" FONTSIZE="18" CH="References"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="536.5008" YPOS="2794.5144" OwnPage="8" ItemID="267240448" PTYPE="4" WIDTH="144" HEIGHT="274.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 274.5 L0 274.5 L0 0 Z" copath="M0 0 L144 0 L144 274.5 L0 274.5 L0 0 Z" gXpos="932.5008" gYpos="3446.5176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="541.0008" YPOS="2839.5144" OwnPage="8" ItemID="267240448" PTYPE="4" WIDTH="144" HEIGHT="274.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L144 0 L144 274.5 L0 274.5 L0 0 Z" copath="M0 0 L144 0 L144 274.5 L0 274.5 L0 0 Z" gXpos="937.0008" gYpos="3491.5176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="12" FONT="Consolas Regular" FONTSIZE="10"/>
                 <ITEXT CH="[1] “21 CFR 101.9 -- Nutrition labeling of food.” Accessed: Mar. 22, 2026. [Online]. Available: https://www.ecfr.gov/current/title-21/part-101/section-101.9"/>
@@ -2211,7 +2211,7 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="532.0008" YPOS="2736.0144" OwnPage="8" ItemID="267246112" PTYPE="4" WIDTH="324" HEIGHT="31.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 31.5 L0 31.5 L0 0 Z" copath="M0 0 L324 0 L324 31.5 L0 31.5 L0 0 Z" gXpos="532.0008" gYpos="2736.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="532.0008" YPOS="2781.0144" OwnPage="8" ItemID="267246112" PTYPE="4" WIDTH="324" HEIGHT="31.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324 0 L324 31.5 L0 31.5 L0 0 Z" copath="M0 0 L324 0 L324 31.5 L0 31.5 L0 0 Z" gXpos="532.0008" gYpos="2781.0144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Consolas Regular" CH="- Wyatt Biggs"/>
