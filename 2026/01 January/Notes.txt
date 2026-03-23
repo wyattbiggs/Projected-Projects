@@ -31,4 +31,6 @@ Modified IMRaD:
 Project Facts is modeled after Nutrition Facts with sections and horizontal lines separating elements.
 References will have a similar structure.
 
- 
+2026-03-22
+Finished the first draft of the preface.
+Still considering moving the git repository to a private git server.
